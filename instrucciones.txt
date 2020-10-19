@@ -1,0 +1,12 @@
+para este proyecto se utilizo las siguientes tencologias de desarrollo
+
+Para el backend: se realizo en net core v3.1 
+Gestor de base de datos Sqlserver 2017
+Para el frontEnd Angular v10
+Para ejecutar el proyecto sigas instrucciones:
+
+
+carpeta indicadores se encuentra la aplicacion del backend
+carpeta client se encuentra el frontend 
+script de la base de datos script.sql
+

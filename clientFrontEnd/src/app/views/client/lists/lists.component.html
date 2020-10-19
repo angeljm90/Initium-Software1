@@ -1,0 +1,28 @@
+<table class="table table-sm">
+    <thead>
+        <tr>
+            <td>Indetificación</td>
+            <td>Cliente</td>
+            <td>Duración</td>
+            <td>Fecha Registro</td>
+            <td>Estado</td>
+            <td >
+                Acciones
+            </td>   
+        </tr>
+        
+    </thead>
+<tr *ngFor="let item of clienteService.clients">
+    
+<td>{{item.cliIdentificacion}}</td>
+<td>{{item.cliNombre}}</td>
+<td>{{item.ticNombre}} {{item.ticTiempo}} minuto(s)</td>
+<td>{{item.tikFechaRegistro}}</td>
+<td>{{item.tikEstado==0?'Cliente en espera':'Atendido'}}</td>
+<td >
+    <i matTooltip="dvdd" class="far fa-trash-alt fa-lg text-danger" style="cursor: pointer;" (click)="UpdateStatus(item.tikId)"></i>
+
+    
+</td>
+</tr>
+</table>

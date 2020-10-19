@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Indicadores.Api.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "Indicadores.Api.Business": "1.0.0"
+        },
+        "runtime": {
+          "Indicadores.Api.Application.Contracts.dll": {}
+        }
+      },
+      "Indicadores.Api.Business/1.0.0": {
+        "runtime": {
+          "Indicadores.Api.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indicadores.Api.Application.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Indicadores.Api.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

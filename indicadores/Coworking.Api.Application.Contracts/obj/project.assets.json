@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Indicadores.Api.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Indicadores.Api.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Indicadores.Api.Business.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Indicadores.Api.Business/1.0.0": {
+      "type": "project",
+      "path": "../Coworking.Api.Business/Indicadores.Api.Business.csproj",
+      "msbuildProject": "../Coworking.Api.Business/Indicadores.Api.Business.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Indicadores.Api.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Armando\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Optime\\proyecto2020\\desarrollo\\indicadores\\indicadores\\Coworking.Api.Application.Contracts\\Indicadores.Api.Application.Contracts.csproj",
+      "projectName": "Indicadores.Api.Application.Contracts",
+      "projectPath": "E:\\Optime\\proyecto2020\\desarrollo\\indicadores\\indicadores\\Coworking.Api.Application.Contracts\\Indicadores.Api.Application.Contracts.csproj",
+      "packagesPath": "C:\\Users\\Armando\\.nuget\\packages\\",
+      "outputPath": "E:\\Optime\\proyecto2020\\desarrollo\\indicadores\\indicadores\\Coworking.Api.Application.Contracts\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Armando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\Optime\\proyecto2020\\desarrollo\\indicadores\\indicadores\\Coworking.Api.Business\\Indicadores.Api.Business.csproj": {
+              "projectPath": "E:\\Optime\\proyecto2020\\desarrollo\\indicadores\\indicadores\\Coworking.Api.Business\\Indicadores.Api.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

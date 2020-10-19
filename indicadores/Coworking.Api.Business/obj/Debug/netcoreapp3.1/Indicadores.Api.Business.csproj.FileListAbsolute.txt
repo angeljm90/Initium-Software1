@@ -1,0 +1,8 @@
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.deps.json
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\obj\Debug\netcoreapp3.1\Indicadores.Api.Business.csprojAssemblyReference.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\obj\Debug\netcoreapp3.1\Indicadores.Api.Business.AssemblyInfoInputs.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\obj\Debug\netcoreapp3.1\Indicadores.Api.Business.AssemblyInfo.cs
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\obj\Debug\netcoreapp3.1\Indicadores.Api.Business.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.Business\obj\Debug\netcoreapp3.1\Indicadores.Api.Business.pdb

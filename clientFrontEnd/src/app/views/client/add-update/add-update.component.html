@@ -1,0 +1,36 @@
+<form [formGroup]="itemForm"  (ngSubmit)="submit()">
+    <div class="form-group" >
+        <div class="input-group">
+           
+                <label>Indentificación <span style="color: red">*</span></label>
+              <input
+             type="text" class="form-control"
+             formControlName='cliIdentificacion'
+             >
+        </div>
+    </div>
+    <div class="form-group" >
+               <div class="input-group">
+                    <label>Nombre cliente <span style="color: red">*</span></label>
+                  <input
+                  type="text" class="form-control"
+                  formControlName='cliNombre'
+                  >
+                   </div>
+    </div>
+    <div class="form-group" >
+        <div class="input-group">
+               <div formGroupName="ticket">
+                <mat-radio-group class="example-radio-group" formControlName='ticId' >
+                    <mat-radio-button class="example-radio-button" *ngFor="let item of tipoColas" [value]="item.ticId">
+                        {{item.ticNombre}} {{item.ticTiempo}} minuto (s)</mat-radio-button>
+                  </mat-radio-group>
+               </div>
+        </div>
+             </div>
+      
+   
+    <div class="input-group">  
+        <button class="btn btn-success btn-lg btn-block" type="submit">Guardar</button>
+    </div>
+</form>

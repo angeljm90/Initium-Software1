@@ -1,0 +1,11 @@
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.AssemblyInfoInputs.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.AssemblyInfo.cs
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.csprojAssemblyReference.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.deps.json
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.csproj.CopyComplete
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess.Contracts\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.pdb

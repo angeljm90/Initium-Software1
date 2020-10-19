@@ -1,0 +1,16 @@
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.deps.json
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.AssemblyInfoInputs.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.AssemblyInfo.cs
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.csprojAssemblyReference.cache
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.runtimeconfig.json
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.runtimeconfig.dev.json
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.Business.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\bin\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.Contracts.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.csproj.CopyComplete
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.dll
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.pdb
+E:\Optime\proyecto2020\desarrollo\indicadores\indicadores\Coworking.Api.DataAccess\obj\Debug\netcoreapp3.1\Indicadores.Api.DataAccess.genruntimeconfig.cache
